@@ -1,4 +1,4 @@
-/* style for index.html */
+/* style for resume.html */
 ul {
     list-style-type: none;
     margin: 0;
@@ -36,27 +36,28 @@ ul {
       font-family: "moderna";
       font-size: 30px;
       margin-top: 3%;
-      margin-left: 2%;
+      margin-left: 1%;
   }
   .topic{
     text-align: left;
     font-family: "moderna";
-    font-size: 12px;
+    font-size: 14px;
     margin-left: 2%;
-    margin-top: -2%;
+   
   }
-  .para{
+  p{
     text-align: left;
-    font-family: "moderna";
+    font-family: "Verdana";
     font-size: 12px;
-    margin-left: 3.5%;
+    margin-left: 7%;
   }
+
   .location{
-    font-family: "moderna";
+    font-family: "Verdana";
     font-size: 12px;
     text-align: right;
-    margin-right: 2%;
-    margin-top: -4%;
+    margin-right: 4%;
+    margin-top: -6%;
 
   }
   img{
